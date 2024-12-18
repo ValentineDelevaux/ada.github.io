@@ -266,10 +266,9 @@ a:focus {
     text-align: center;
     color: #ffffff;
     background: url(/ada.github.io/img/portail.png) no-repeat bottom center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-size: cover; /* Couvre toute la surface de l'élément en respectant les proportions */
+    background-position: center center; /* Centre l'image sur les axes horizontal et vertical */
+    background-attachment: fixed; /* Fixe l'image en arrière-plan pour un effet de parallaxe */
 }
 
 .about-section .col-lg-8 {
