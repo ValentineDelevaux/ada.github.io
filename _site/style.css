@@ -146,7 +146,7 @@ a:focus {
     padding: 0; /* Supprime le padding pour éviter les espaces inutiles */
     text-align: center;
     color: #fff;
-    background: url(/img/paysage.png) no-repeat center center fixed; /* Centre l'image et la fixe */
+    background: url(img/paysage.png) no-repeat center center fixed; /* Centre l'image et la fixe */
     background-color: ;
     background-size: cover; /* Couvre toute la surface de l'élément en respectant les proportions */
     background-position: center center; /* Centre l'image sur les axes horizontal et vertical */
@@ -272,7 +272,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #ffffff;
-    background: url(/img/portail.png) no-repeat bottom center scroll;
+    background: url(img/portail.png) no-repeat bottom center scroll;
     background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -300,7 +300,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #ffffff;
-    background: url(/img/tap2windows2.png) no-repeat bottom center scroll;
+    background: url(img/tap2windows2.png) no-repeat bottom center scroll;
     background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -419,7 +419,7 @@ a:focus {
     margin: 0 auto; /* Centre horizontalement sur la page */
     padding: 50px 0;
     color: #fff;
-    background: url(/img/long_paper.png) repeat; /* Maintient la répétition */
+    background: url(img/long_paper.png) repeat; /* Maintient la répétition */
     background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
@@ -668,7 +668,7 @@ a:focus {
     margin: 0 auto; /* Centre horizontalement sur la page */
     padding: 50px 0;
     color: #fff;
-    background: url(/img/long_paper2.png) repeat; /* Maintient la répétition */
+    background: url(img/long_paper2.png) repeat; /* Maintient la répétition */
     background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
@@ -1043,7 +1043,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #ffffff;
-    background: url(/img/long_paper4.png) no-repeat bottom center scroll;
+    background: url(img/long_paper4.png) no-repeat bottom center scroll;
     background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1256,7 +1256,7 @@ a:focus {
     margin: 0 auto; /* Centre horizontalement sur la page */
     padding: 50px 0;
     color: #fff;
-    background: url(/img/long_paper5.png) repeat; /* Maintient la répétition */
+    background: url(img/long_paper5.png) repeat; /* Maintient la répétition */
     background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
@@ -1271,7 +1271,7 @@ a:focus {
     margin: 0 auto; /* Centre horizontalement sur la page */
     padding: 50px 0;
     color: #fff;
-    background: url(/img/long_paper3.png) repeat; /* Maintient la répétition */
+    background: url(img/long_paper3.png) repeat; /* Maintient la répétition */
     background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
@@ -1714,7 +1714,7 @@ a:focus {
     margin: 0 auto; /* Centre horizontalement sur la page */
     padding: 50px 0;
     color: #fff;
-    background: url(/img/long_paper2.png) repeat; /* Maintient la répétition */
+    background: url(img/long_paper2.png) repeat; /* Maintient la répétition */
     background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
@@ -1916,7 +1916,7 @@ a:focus {
     margin: 0 auto; /* Centre horizontalement sur la page */
     padding: 50px 0;
     color: #fff;
-    background: url(/img/long_paper.png) repeat; /* Maintient la répétition */
+    background: url(img/long_paper.png) repeat; /* Maintient la répétition */
     background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
@@ -2124,7 +2124,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #ffffff;
-    background: url(/img/portail.png) no-repeat bottom center scroll;
+    background: url(img/portail.png) no-repeat bottom center scroll;
     background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -2173,7 +2173,7 @@ a:focus {
     margin: 0 auto; /* Centre horizontalement sur la page */
     padding: 50px 0;
     color: #fff;
-    background: url(/img/long_paper.png) repeat; /* Maintient la répétition */
+    background: url(img/long_paper.png) repeat; /* Maintient la répétition */
     background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
