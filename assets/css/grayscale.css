@@ -140,7 +140,7 @@ a:focus {
     padding: 0; /* Supprime le padding pour éviter les espaces inutiles */
     text-align: center;
     color: #fff;
-    background: url(/../../img/paysage.png) no-repeat center center fixed; /* Centre l'image et la fixe */
+    background: url(/../../ada.github.io/img/paysage.png) no-repeat center center fixed; /* Centre l'image et la fixe */
     background-size: cover; /* Couvre toute la surface de l'élément en respectant les proportions */
     background-position: center center; /* Centre l'image sur les axes horizontal et vertical */
     background-attachment: fixed; /* Fixe l'image en arrière-plan pour un effet de parallaxe */
