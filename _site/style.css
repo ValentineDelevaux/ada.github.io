@@ -14,7 +14,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: ;
+    /*background-color: ;*/
 }
 
 html {
@@ -50,7 +50,7 @@ p {
 }
 
 a {
-    color: ;
+    /*color: ;*/
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -71,7 +71,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: ;
+    /*background-color: ;*/
 }
 
 .navbar-custom .navbar-brand {
@@ -128,7 +128,6 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: ;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -147,7 +146,6 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(img/paysage.png) no-repeat center center fixed; /* Centre l'image et la fixe */
-    background-color: ;
     background-size: cover; /* Couvre toute la surface de l'élément en respectant les proportions */
     background-position: center center; /* Centre l'image sur les axes horizontal et vertical */
     background-attachment: fixed; /* Fixe l'image en arrière-plan pour un effet de parallaxe */
@@ -273,7 +271,6 @@ a:focus {
     text-align: center;
     color: #ffffff;
     background: url(img/portail.png) no-repeat bottom center scroll;
-    background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -301,7 +298,6 @@ a:focus {
     text-align: center;
     color: #ffffff;
     background: url(img/tap2windows2.png) no-repeat bottom center scroll;
-    background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -420,7 +416,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(img/long_paper.png) repeat; /* Maintient la répétition */
-    background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
 
@@ -669,7 +664,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(img/long_paper2.png) repeat; /* Maintient la répétition */
-    background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
 
@@ -1044,7 +1038,6 @@ a:focus {
     text-align: center;
     color: #ffffff;
     background: url(img/long_paper4.png) no-repeat bottom center scroll;
-    background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -1257,7 +1250,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(img/long_paper5.png) repeat; /* Maintient la répétition */
-    background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
 
@@ -1272,7 +1264,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(img/long_paper3.png) repeat; /* Maintient la répétition */
-    background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
 
@@ -1715,7 +1706,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(img/long_paper2.png) repeat; /* Maintient la répétition */
-    background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
 
@@ -1917,7 +1907,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(img/long_paper.png) repeat; /* Maintient la répétition */
-    background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
 
@@ -2125,7 +2114,6 @@ a:focus {
     text-align: center;
     color: #ffffff;
     background: url(img/portail.png) no-repeat bottom center scroll;
-    background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -2174,7 +2162,6 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(img/long_paper.png) repeat; /* Maintient la répétition */
-    background-color: ;
     background-size: cover; /* Garde la taille originale de l'image */
 }
 
@@ -2338,17 +2325,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid ;
-    color: ;
+    /*border: 1px solid ;*/
+    /*color: ;*/
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid ;
+    /*border: 1px solid ;*/
     outline: 0;
-    color: ;
-    background-color: ;
+    /*color: ;*/
+    /*background-color: ;*/
 }
 
 ul.banner-social-buttons {
